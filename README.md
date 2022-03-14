@@ -21,9 +21,9 @@
 <h3 align="left">What languages ​​do I speak?</h3>
 <p align="left">
     <ul>
-        <li>Spanish 🇦🇷 - (Native)</li>
-        <li>English 🇬🇧 - (Elementary) </li>
-        <li>German 🇩🇪 - (B1)</li>
+        <li>Spanish  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/800px-Flag_of_Argentina.svg.png?20120912082242" alt="Argentina" width="20" height="20"/> - (Native)</li>
+        <li>English <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/2560px-Flag_of_the_United_Kingdom.svg.png" alt="United Kingdom" width="20" height="20"/> - (Elementary) </li>
+        <li>German <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png" alt="Germany" width="20" height="20"/> - (B1)</li>
     </ul>
 </p>
 
