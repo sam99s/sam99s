@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on MACENA🔵 [https://www.macena.com.ar/](https://www.macena.com.ar/)
 
-- 🌱 I’m currently learning **SQL, C#, Java, English and German**
+- 🌱 I’m currently learning **SQL, .NET, English and German**
 
 - 👨‍💻 All of my projects are available at [https://www.sam99s.com](https://www.sam99s.com)
 
