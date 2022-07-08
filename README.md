@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on MACENA🔵 [https://www.macena.com.ar/](https://www.macena.com.ar/)
 
-- 🌱 I’m currently learning **SQL, .NET, English and German**
+- 🌱 I’m currently learning **.NET & English**
 
 - 👨‍💻 All of my projects are available at [https://www.sam99s.com](https://www.sam99s.com)
 
@@ -22,8 +22,8 @@
 <p align="left">
     <ul>
         <li>Spanish  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/800px-Flag_of_Argentina.svg.png?20120912082242" alt="Argentina" width="20" height="auto"/> - (Native)</li>
-        <li>English <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/2560px-Flag_of_the_United_Kingdom.svg.png" alt="United Kingdom" width="20" height="auto"/> - (Elementary) </li>
-        <li>German <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png" alt="Germany" width="20" height="auto"/> - (B1)</li>
+        <li>English <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/2560px-Flag_of_the_United_Kingdom.svg.png" alt="United Kingdom" width="20" height="auto"/> - (Intermediate) </li>
+        <li>German <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png" alt="Germany" width="20" height="auto"/> - (Basic)</li>
     </ul>
 </p>
 
