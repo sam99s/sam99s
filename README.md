@@ -3,7 +3,7 @@
   <img align="right" src="/assets/devGif.gif" width="50%"/>
 
   <p>:briefcase: I work as a full stack developer in <a href="https://www.macena.com.ar" target="_blank">Macena</a>.</p>
-  <p>:books: I am currently studying at <a href="https://platzi.com/p/Sam99s" target="_blank">Paltzi</a> and if you want to know about my future you can see it on my <a href="https://www.sam99s.com" target="_blank">website</a></p>
+  <p>:books: I am currently studying at <a href="https://platzi.com/p/Sam99s" target="_blank">Platzi</a> and if you want to know about my future you can see it on my <a href="https://www.sam99s.com" target="_blank">website</a></p>
   
   <p>:speech_balloon: Let's talk about my tools.</p>
 
