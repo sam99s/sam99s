@@ -4,7 +4,7 @@
 
   <!-- <p>:briefcase: I am working as a Full Stack Developer in <a href="" target="_blank"></a>.</p> -->
   <p>⭐ Reading + Coffee = daily pleasure</p>
-  <p>🙍‍♂️ I like sports very much. I was a soccer and chess player. I currently practice swimming.</p>
+  <p>🙍‍♂️ I like sports very much. I was a soccer and chess player.</p>
   <p>:books: I am currently studying at <a href="https://platzi.com/p/Sam99s" target="_blank">Platzi</a> and if you want to know about my future you can see it on my <a href="https://www.sam99s.com" target="_blank">website</a></p>
   
   <p>:speech_balloon: Let's talk about my tools.</p>
