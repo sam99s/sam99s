@@ -1,6 +1,6 @@
 # Hi there! I'm Samuel :desktop_computer::computer:
 
-  <img align="right" src="/assets/devGif.gif" width="50%" style="max-width: 90%;display: inline-block;"/>
+  <img align="right" src="/assets/devGif.gif" width="40%"/>
 
   <!-- <p>:briefcase: I am working as a Full Stack Developer in <a href="" target="_blank"></a>.</p> -->
   <p>⭐ Reading + Coffee = daily pleasure</p>
